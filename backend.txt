@@ -1,1 +1,0 @@
-Backend реализован в виде плагина OctoberCMS Elenstar.ymaps
